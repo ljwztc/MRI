@@ -1,0 +1,6 @@
+bash script/fastmri_knee_cartesian_random_8_none_none.sh
+bash script/fastmri_knee_cartesian_random_4_none_none.sh
+bash script/fastmri_knee_radial_4_none_none.sh
+bash script/fastmri_knee_radial_8_none_none.sh
+bash script/fastmri_knee_spiral_4_none_none.sh
+bash script/fastmri_knee_spiral_8_none_none.sh
