@@ -1,2 +1,7 @@
 cache
 accelerated_mri_recon
+log
+pre_trained
+mri_results
+varnet_log
+swin_log
